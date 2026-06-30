@@ -1,4 +1,4 @@
-# DevPulse 🔍
+# DevPulse 
 
 > Automated GitHub repository health monitoring and alerting system.
 
